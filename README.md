@@ -1,6 +1,6 @@
 # Birthday-Reminder
 # Getting Started with Create React App
-##https://effortless-licorice-8c0df3.netlify.app/
+## https://effortless-licorice-8c0df3.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
